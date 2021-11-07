@@ -1,5 +1,5 @@
 <h1 align="center">Hola Soy Facundo</h1>
-<h3 align="center">Programador</h3>
+<h3 align="center">full stack developer</h3>
 
 
 <h3 align="left">Languages y Tools:</h3>
