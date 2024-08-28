@@ -31,3 +31,12 @@
 <a href="https://twitter.com/el_facu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="el_facu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/facundoruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundoruiz" height="30" width="40" /></a>
 </p>
+
+
+
+##  Public Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=facundoruiz&show_icons=true&hide_border=true&theme=radical" alt="Facundo Repositorios" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=facundoruiz&layout=compact&theme=radical&hide_border=true" alt="Facundo lo que más use" />
+</p>
